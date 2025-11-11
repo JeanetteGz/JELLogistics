@@ -8,7 +8,7 @@ export default function CarrierContact(){
         <div className="carriers-grid">
           <div className="carriers-sidebar">
             <div className="sidebar-image">
-              <img src="https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=800&q=80" alt="Carrier truck on highway" />
+              <img src="https://t3.ftcdn.net/jpg/02/76/06/46/360_F_276064615_lFjrG8yn5QogRnehvefp1rP0Z6ttIgBu.jpg" alt="Carrier truck on highway" />
             </div>
             <div className="sidebar-info">
               <h4>Carrier Requirements</h4>

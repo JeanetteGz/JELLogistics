@@ -8,7 +8,7 @@ export default function Services(){
         <div className="grid-3">
           <div className="card">
             <div className="service-image">
-              <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80" alt="Full truckload freight" />
+              <img src="https://w0.peakpx.com/wallpaper/919/1019/HD-wallpaper-volvo-vnl-2019-swedish-truck-new-gray-vnl-trucking-concepts-cargo-delivery-loading-cargo-vnl300-volvo.jpg" alt="Full truckload freight" />
             </div>
             <h3>Full Truckload (FTL)</h3>
             <p>We specialize in full truckload shipments across the continental United States. Our services include dry van, flatbed, step deck, and hotshot transportation options. Whether you're shipping palletized goods, machinery, building materials, or general freight, we match you with the right carrier and equipment type for your specific needs. FTL shipping offers dedicated service, faster transit times, and reduced handling of your cargo.</p>
@@ -18,11 +18,11 @@ export default function Services(){
               <img src="https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&q=80" alt="Time-sensitive freight delivery" />
             </div>
             <h3>Time-Sensitive Freight</h3>
-            <p>When timing is critical, we prioritize your shipments and provide proactive communication throughout the transit. Our team coordinates closely with carriers to ensure on-time pickups and deliveries. We provide regular updates during business hours, so you're always informed about your shipment's status. For urgent or expedited freight, we leverage our carrier network to find available capacity quickly and efficiently.</p>
+            <p>When timing is critical, we prioritize your shipments and provide proactive communication throughout the transit. Our team coordinates closely with carriers to ensure on time pickups and deliveries. We provide regular updates during business hours, so you're always informed about your shipment's status. For urgent or expedited freight, we leverage our carrier network to find available capacity quickly and efficiently.</p>
           </div>
           <div className="card">
             <div className="service-image">
-              <img src="https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=800&q=80" alt="Reliable carrier network" />
+              <img src="https://www.suburbanseats.com/cdn/shop/articles/freight-semi-truck-road-carrier_1242f7cb-3f1e-4a5c-8e77-cedf2dc3f57d.jpg?v=1746436563" alt="Reliable carrier network" />
             </div>
             <h3>Reliable Carrier Network</h3>
             <p>We work exclusively with vetted, insured carriers who meet strict safety and compliance standards. Every carrier in our network is properly licensed, insured, and maintains good safety ratings. We verify certificates of insurance (COI) and W-9 forms to ensure compliance. Additionally, we support fast payouts through factoring partnerships, making it easier for carriers to access funds quickly after delivery.</p>
